@@ -1,11 +1,11 @@
 # FLO-Customer-Segmentation-with-RFM-Analysis
-*Business Problem*
+Business Problem
 FLO (Footwear Sales Store) wants to divide its customers into segments and determine marketing strategies according to these segments. To this end, customer behaviors will be defined and groups will be created according to these behavior clusters.
 
 The Data Set Story
 The dataset consists of information obtained from the past shopping behavior of customers who made their last purchases as OmniChannel (both online and offline shopping) in 2020 - 2021.
 
-*Features in the Dataset:*
+Features in the Dataset:
 
 master_id: Unique customer number
 order_channel: Which channel is used for the shopping platform (Android, ios, Desktop, Mobile, Offline)
